@@ -7,12 +7,12 @@ export default function Home() {
 
   return (
     <main>
-      <header class='bg-green-400 justify-center flex'>
-        <div class='header'>
+      <header className='bg-green-400 justify-center flex'>
+        <div className='header'>
           iorin a.k.a. GochiusaLover
         </div>
       </header>
-      <div class='bg-blue-300'>
+      <div className='bg-blue-300'>
         <h1>link</h1>
         <div>
         </div>
@@ -50,7 +50,7 @@ export default function Home() {
       <br/>
       <Link to="/sankai">sankai</Link><br/>
       <Link to="/yonkai">yonkai</Link>
-      <footer class='bg-green-400 justify-center flex'>
+      <footer className='bg-green-400 justify-center flex'>
         <a href='#top'>back to top</a>
       </footer>
     </main>
