@@ -9,7 +9,7 @@ export default function Home() {
     <main>
       <header class='bg-green-400 justify-center flex'>
         <div class='header'>
-          iorin&apos;s homepage
+          iorin a.k.a. GochiusaLover
         </div>
       </header>
       <div class='bg-blue-300'>
