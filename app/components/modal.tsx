@@ -2,7 +2,7 @@ import React, {useState, useEffect} from 'react';
 import {Link} from 'react-router-dom';
 import Modal from 'react-modal';
 
-export default function DescModal(props:{title: String, descriptions: String, link: String}) {
+export default function DescModal(props:{title: string, descriptions: string, link: string}) {
   const [isOpen, setModal] = useState(false);
   const modalStyle: Modal.Styles = {
     content: {
