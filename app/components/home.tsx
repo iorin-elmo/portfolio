@@ -9,7 +9,7 @@ export default function Home() {
     <main>
       <header class='bg-green-400 justify-center flex'>
         <div class='header'>
-          iorin's homepage
+          iorin&apos;s homepage
         </div>
       </header>
       <div class='bg-blue-300'>
